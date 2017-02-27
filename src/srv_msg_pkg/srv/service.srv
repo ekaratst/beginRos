@@ -1,0 +1,7 @@
+# message_type client_a for client send to service
+int64 n
+---
+# message_type service _a for service send to client
+srv_msg_pkg/message nn
+
+

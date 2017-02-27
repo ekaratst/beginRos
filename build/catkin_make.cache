@@ -1,0 +1,2 @@
+client_service_cpp:client_service_py:rosPractice/ai_pkg:rosPractice/control_pkg:rosPractice/srv_msg_practice_pkg:rosPractice/vision_pkg:srv_msg_pkg:test_publisher
+-DCATKIN_DEVEL_PREFIX=/home/parallels/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/catkin_ws/install -G Unix Makefiles

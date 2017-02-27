@@ -1,0 +1,8 @@
+prefix=/home/parallels/catkin_ws/devel
+
+Name: client_service_py
+Description: Description of client_service_py
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/catkin_ws/devel/lib 
+Requires: 

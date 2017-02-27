@@ -1,0 +1,7 @@
+# message_type client_a for client send to service
+int64 a
+---
+# message_type service _a for service send to client
+int64 b
+
+
